@@ -1,0 +1,17 @@
+Weekly 0.0.3.0 [2013-07-25]
+	* Fix /bin/stats to correctly invoke reduce_json
+	* Fix yaml files in etc
+	* Teach json_to_stats.py to also print per-tag stats
+	* Repair the way payload_to_json.py deals with handles and tags
+	* Allow the user to use camelcase in yaml files
+	* Teach reduce_json.py about vectors (i.e., handles and tags)
+	* Fix reduce_json.py behavior when -a is not specified
+	* Update archives
+
+Weekly 0.0.2.0 [2013-07-03]
+	* Use yaml to represent handles, tags, activities, and projects
+	* Add token laundering functionality to preprocess_payload.py
+	* Update archives
+
+Weekly 0.0.1.0 [2013-06-03]
+	* Initial release

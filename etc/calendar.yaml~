@@ -1,0 +1,30 @@
+EMAILS:
+   'fmorando': 'federico.morando@polito.it'
+   'gfutia': 'giuseppe.futia@polito.it'
+   'riemma': 'raimondo.iemma@polito.it'
+   'sbasso': 'bassosimone@gmail.com'
+   'lcanova': 'lorenzo.cnv@gmail.com'
+
+PERSONS:
+   'fmorando': 'Federico Morando'
+   'gfutia': 'Giuseppe Futia'
+   'riemma': 'Raimondo Iemma'
+   'sbasso': 'Simone Basso'
+   'lcanova': 'Lorenzo Canova'
+
+USERS:
+   'federico': 'fmorando'
+   'giuseppe': 'gfutia'
+   'simone': 'sbasso'
+   'sbs': 'sbasso'
+   'sbasso': 'sbasso'
+   'raimondo': 'riemma'
+   'lorenzo': 'lcanova'
+
+TOKENS:
+   'prova': 'an3kn4ssbtc6auumfhrgb4jkls@group.calendar.google.com'
+   'fmorando': 'qhpdmtb2ft5610ihhmd3sjqr6c@group.calendar.google.com'
+   'sbasso': 'odps1aahnertk3lmbi7p4cen90@group.calendar.google.com'
+   'riemma': '1919o0h9e3mk3lages0eiop0lk@group.calendar.google.com'
+   'gfutia': 'giuseppe.futia@gmail.com'
+   'lcanova': 'lorenzo.cnv@gmail.com'

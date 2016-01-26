@@ -1,0 +1,40 @@
+#
+# tenere in ordine alfabetico, per facilitare manutenzione
+#
+
+- any:
+    - amministrazione:
+        - burocrazia
+        - rendicontazione
+    - design
+    - didattica
+        - tutoring
+    - gestione:
+        - projectmanagement
+        - reporting
+        - headhunting
+    - ferie
+    - festa
+    - formazione
+    - misc:
+        - servizigenerali
+        - "helpdesk supporto"
+        - segreteria
+        - viaggio
+    - malattia
+    - "outreach comunicazione":
+        - grafica
+        - "pubblicherelazioni pr"
+        - ufficiostampa
+    - policy
+    - progettazione
+    - recupero
+    - review
+    - "ricerca research":
+        - brainstorming
+        - conferenza
+        - hacking
+        - paper
+        - studio
+    - "sviluppo devel"
+    - sysadmin

@@ -1,0 +1,26 @@
+
+=Macro da espandere=
+
+!steering OR !steeringM -> #riunione %gestione #nexa @mRicolfi @jcDemartin @fMorando @rIemma @nTecco [2h]
+!weeklyMeeting OR !steeringS -> #riunione %gestione #nexa @jcDemartin @fMorando @rIemma @nTecco [1h]
+!staffMeeting -> #riunione %gestione #nexa @staff [1h]
+!mercoledi -> #mercoledi: $divulgazione in %conferenza con gente varia a #nexa [2 h]
+!lunch -> #lunch: $divulgazione in %conferenza con gente varia collegata a #nexa per [1 h]
+!mail -> %gestione #mail per $nexa e dintorni [no standard tempo]
+
+sarebbe carino avere dei default riscrivibili, almeno per il tempo...
+...ma anche poter aggiungere handle appositi (es. ospite lunch o mercoledì)
+
+=Assenze=
+
+sono tentato di proporre
+%assenza
+	%ferie
+		%permesso
+	%malattia
+che si valorizzano su $none
+
+
+=inline RFC=
+?%nomeAttività, ?$nomeProgetto: RFC su aggiunta attività o progetto all'elenco standard...
+[sarebbe carino aggiungere di default una riga commentata al file attività o progetti...]

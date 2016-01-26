@@ -1,0 +1,31 @@
+
+1. %staffMeeting [1h]
+
+2. %riunione con @fmorando @mtorchiano su $opendata [1.5h]
+
+3. partecipazione alla %riunione #executiveboard di $eins [0.5h]
+
+4. aggiornamento del deliverable #d8.1 di $opendai %reporting  [12h]
+
+5. rilettura bozza progetto su $opendata di @cthanos %fundraising #fp7
+[2h]
+
+6. %steering [2.5h]
+
+7. revisione materiale di rendicontazione scientifica delle #attività2012
+relative a $contrattoregione per @fmorando %reporting [2.5h]
+
+8. %riunione in preparazione #kick-off $lapsi2 con @cartusio e @fmorando
+[1h]
+
+9. lettura #DoW $lapsi2 per valutazione nostro impegno %gestione [2h]
+
+10. interazione con @pmistrangelo su %lunch seminar #opencatasto [1.5h]
+
+11. %formazione #coding #python [2h]
+
+12. studio su nuovo formato #weekly con @fmorando @sbasso %gestione $nexa
+[1.5h]
+
+13. %mail %gestione [1h]
+

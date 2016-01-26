@@ -1,0 +1,32 @@
+#
+# Tenere in ordine alfabetico per facilitare manutenzione. I tag scritti in
+# questo file possono contenere underscore o trattini per facilitare la lettura
+# da parte degli umani (oppure si puo' scrivere in CamelCase). Il programma
+# weekly, comunque, prima di processare i tag rimuove tutti i caratteri che non
+# sono lettere o numeri e forza il lowercase.
+#
+
+- annuncio
+- budget
+- business_plan
+- call
+- comunicato
+- didattica_passiva
+- js
+- mail
+- mercoledi
+- missione
+- presentazione
+- progettazione
+- python
+- release
+- report
+- riduzione_inbox
+- riunione
+- server
+- sito_synapta
+- speaker
+- scouting
+- staff_meeting
+- weekly_report
+

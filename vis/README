@@ -1,0 +1,16 @@
+Per testare l'applicazione in locale, occorre avviare il server
+python (testserver.py), avendo l'accortezza di aver python installato
+(parlo per i Windows addicted).
+
+Occorre inoltre avviare Chrome in modalità --disable-web-security, perché
+altrimenti il server SPARQL non può essere interrogato, in quanto si trova
+su un dominio diverso da localhost. Su Windows, andare sulla cartella di chrome
+tramite il prompt dei comandi e avviare il comando: chrome.exe --disable-web-security
+
+Attualmente il visualizzatore prende in pasto un file json di prova flare.json.
+
+L'applicazione effettua inoltre una query SPARQL sul triple store di Federico
+(per verificarne il funzionamento, potete guardare la console di chrome).
+
+Il prossimo passo è quello di ricondurre i risultati della query SPARQL al
+json che il visualizzatore è in grado di prendere in pasto.

@@ -1,0 +1,39 @@
+people:riemma weekly:did [
+    weekly:project project:contrattoregione
+    weekly:with handle:regionepiemonte
+    weekly:with handle:fmorando
+    weekly:activity activity:fundraising
+    weekly:hours 8.000000
+    weekly:orig "1. Aggiornamento della lettera di accompagnamento al piano 2013 per $contrattoRegione con @regionePiemonte e discussione con @fmorando sul piano stesso %fundraising [1d];"
+] .
+
+people:riemma weekly:did [
+    weekly:project project:eins
+    weekly:activity activity:management
+    weekly:hours 6.000000
+    weekly:orig "2. revisione TODO e funzionamento opencall $eins %management [.75d];"
+] .
+
+people:riemma weekly:did [
+    weekly:with handle:amantelero
+    weekly:with handle:epavan
+    weekly:with handle:fmorando
+    weekly:project project:eins
+    weekly:about tag:jra6
+    weekly:hours 0.500000
+    weekly:orig "3. riunione \"finale\" con @amantelero @epavan @fmorando su $eins #jra6 [0,5h];"
+] .
+
+people:riemma weekly:did [
+    weekly:activity activity:misc
+    weekly:hours 6.000000
+    weekly:orig "4. %misc: small tasks [0.75d];"
+] .
+
+people:riemma weekly:did [
+    weekly:with handle:sbasso
+    weekly:activity activity:misc
+    weekly:hours 1.000000
+    weekly:orig "5. prova di weekly con @sbasso %misc [h]."
+] .
+

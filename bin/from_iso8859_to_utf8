@@ -1,0 +1,4 @@
+#!/bin/sh
+# Public domain, 2013 Simone Basso <bassosimone@gmail.com>
+iconv --from=iso-8859-1 --to=utf-8 $1 > $1.tmp
+mv $1.tmp $1

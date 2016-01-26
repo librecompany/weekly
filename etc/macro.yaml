@@ -1,0 +1,9 @@
+"!ferie": "%ferie $assenza"
+"!festa": "%festa $assenza"
+"!mailgestione": "%gestione $synapta #mail"
+"!malattia": "%malattia $assenza"
+"!misc": "%misc $misc"
+"!recupero": "%recupero $assenza"
+"!riduzioneinbox": "%misc $synapta #mail"
+"!staffmeeting": "%projectmanagement $synapta #staffmeeting [1h]"
+

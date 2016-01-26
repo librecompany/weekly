@@ -1,0 +1,27 @@
+#
+# tenere in ordine alfabetico, per facilitare manutenzione
+# utilizzare solo spazi (e niente tab)
+#
+#
+
+- all:
+    - assenza
+    - bigdata 
+    - "cloud cloudcomputing"
+    - crowdfunding
+    - curiosita
+    - "dottorato phd"
+    - internetscience
+    - fundamentalrights 
+    - "ip intellectualproperty proprietaintellettuale" 
+    - linkeddata
+    - "networkperformance netperf internetmonitoring networking"
+    - nexa 
+    - opencontent 
+    - "opendata psi" 
+    - opensource 
+    - privacy 
+    - publicsectorinnovation 
+    - robotica
+    - tirocini
+    - wifi

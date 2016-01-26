@@ -1,0 +1,63 @@
+#
+# tenere in ordine alfabetico, per facilitare manutenzione
+# utilizzare solo spazi (e niente tab)
+#
+
+- all:
+    - assenza
+    - bigdata:
+        - "masterbigdata corsoopendata"
+    - crowdfunding
+    - curiosita
+    - "ip intellectualproperty proprietaintellettuale":
+        - copyrightenforcement
+        - copyright
+    - linkeddata:
+    - misc
+    - synapta:
+        - projectmanagement
+        - "weeklysoftware weekly"
+    - "openaccess oa":
+        - porto
+    - "opencontent":
+        - "creativecommons cc ccit"
+        - culturalheritage
+    - "opendata psi":
+        - evpsi
+        - lapsi
+        - lapsi2
+        - "lazioopendata lazio"
+        - openteam
+        - op4pa
+        - "od-alessandria odalessandria opendataalessandria"
+        - "od-senato odsenato opendatasenato"
+        - "od-quality odquality opendataquality"
+        - homer
+        - "prinopendatapisa prinopendata"
+        - "sharepsi sharepsi2"
+    - opensource:
+        - masteropensource
+    - privacy:
+        - telecomprivacy
+    - "publicdomain pd pubblicodominio"
+    - publicsectorinnovation:
+        - agendadigitalepiemonte
+        - odino
+        - opendai
+    - "regione contrattoregione" # uso deprecato (il principio dev'essere disciplinare, non di imputazione)
+    - robotica:
+        - "telecomrobotica telecomrobot"
+    - selili:
+        - sardegnaricerche
+    - sito
+    - "smartcommunities smartcity":
+        - commune
+        - grappa
+        - smile
+    - socialpa
+        - socialuniversity
+    - teaching:
+        - wipollm
+        - "rivoluzdigitale rivoluzionedigitale"
+        - lastjd
+    - wifi

@@ -1,0 +1,33 @@
+A inizio settimana, [15t] di %sysAdmin delle macchine virtuali che uso
+per testare e rilasciare $neubot.
+
+Da mercoledi` a venerdi`, %research per progettare #needle: un
+mini-linguaggio per rendere $neubot piu` portabile [31h].                       
+
+Sabato e domenica, ho lavorato per %devel #needle e iniziare a integrarlo
+in $neubot [14h].
+
+Attivita` %misc [10t] sparse.
+
+[5t] di %hacking su #openbsd e #opensmtpd tra lunedi` e martedi`.
+
+#riunione settimanale con @jcdemartin su %research $neubot, venerdi`.
+
+#riunione settimanale con @nexastaff, lunedi`.
+
+TODO
+
+Finalizzare prototipo #needle entro lunedi` sera; %research $neubot.
+
+Organizzare review-and-resubmit del paper #ccr, includendo nel loop
+@jcdemartin e @mmeo (%research $neubot).
+
+Mandare in background #tweb (%research $neubot).
+
+#riunione settimanale con @jcdemartin su %research $neubot.
+
+#riunione settimanale con @nexastaff.
+
+Grazie!
+
+Simone

@@ -1,0 +1,17 @@
+
+=Macro da espandere=
+
+=Assenze=
+
+sono tentato di proporre
+%assenza
+	%ferie
+		%permesso
+	%malattia
+che si valorizzano su $none
+
+
+=inline RFC=
+?%nomeAttività, ?$nomeProgetto: RFC su aggiunta attività o progetto all'elenco standard...
+[sarebbe carino aggiungere di default una riga commentata al file attività o progetti...]
+

@@ -1,0 +1,18 @@
+Istruzioni per chi debba aggiungersi al gruppo di sviluppo su GIT
+
+1. crea una chiave ecdsa con password:
+
+     > ssh-keygen -t ecdsa
+
+2. inviami la chiave pubblica per mail:
+
+     > $HOME/.ssh/id_ecdsa.pub
+
+3. clona il repository:
+
+     > git clone ...
+
+4. eventuale clonazione repository orwell con:
+
+     > git clone ...
+

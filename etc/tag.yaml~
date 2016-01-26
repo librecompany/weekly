@@ -1,0 +1,53 @@
+#
+# Tenere in ordine alfabetico per facilitare manutenzione. I tag scritti in
+# questo file possono contenere underscore o trattini per facilitare la lettura
+# da parte degli umani (oppure si puo' scrivere in CamelCase). Il programma
+# weekly, comunque, prima di processare i tag rimuove tutti i caratteri che non
+# sono lettere o numeri e forza il lowercase.
+#
+
+- annuncio
+- budget
+- business_plan
+- call
+- comunicato
+- ccr
+- cronn
+- collettanea
+- didattica_passiva
+- drupal7
+- eins
+- excel
+- fmu
+- jra4
+- jra5
+- jra6
+- js
+- mail
+- mercoledi
+- missione
+- mlab
+- mra
+- needle
+- neubot_viz
+- opencall
+- plugins
+- prin
+- posix
+- presentazione
+- progettazione
+- python
+- release
+- report
+- riduzione_inbox
+- riunione
+- sched
+- security
+- server
+- sito_nexa
+- speaker
+- scouting
+- staff_meeting
+- tesi
+- tweb
+- weekly_report

@@ -1,0 +1,28 @@
+.FROM @sbasso
+
+1. partecipazione al kick-off di $lapsi2.0 a Leuven con @RIemma %riunione
+[11h]
+
+2. preparato rapporto su incontro $LAPSI 2.0 Kick-Off %reporting [4h]
+
+.FROM @riemma
+
+3. backup di file caricati su LAPSI Wiki in vista di prossima rimozione di
+pagine e file relativi alle bozze di LAPSI Policy Recommendation %gestione
+[0,5 h]
+
+4. aggiornato bibliografia siti LAPSI/EVPSI %ricerca [2h30];
+
+5. segnalato via mail a AMantelero mancato conferimento crediti lamentato
+da avvocato partecipante a convegno $e-privacy (19 novembre 2012) %helpdesk
+
+.FROM @gfutia
+
+6. viaggio a/da Leuven per il Kick-off di Lapsi2.0
+
+--
+Claudio Artusio
+Centro Nexa su Internet & Societa`
+Politecnico di Torino DAUIN
+Corso Duca degli Abruzzi, 24
+10129 Torino - Italy

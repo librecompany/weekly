@@ -1,0 +1,47 @@
+Validazione dei weekly
+''''''''''''''''''''''
+
+:Authors: Simone Basso <bassosimone@gmail.com>
+:Version: 1.2 of 2013-05-03
+
+.. Nota: estratto dalla mail di Simone "Usare $weeklysoftware
+         per $board, vol. II"
+
+Comando per semplificare la procedura di validazione del weekly.
+
+Il comando si chiama: ./bin/validate.
+
+1) Per fare una validazione superficiale del
+weekly potete fare cosi`:
+
+  ./bin/validate archive/2013-0*.sbasso.txt
+
+Ovviamente sostituendo sbasso con
+il vostro nome nexiano.
+
+2) Per fare una valutazione approfondita
+invece (nota: -d = deep):
+
+  ./bin/validate -d archive/2013-0*.sbasso.txt
+
+In questo caso, a me il comando fallisce
+nel modo seguente:
+
+ Traceback (most recent call last):
+   File "weekly/validate_json.py", line 96, in <module>
+    main(sys.argv)
+   File "weekly/validate_json.py", line 94, in main
+    validate_json(data)
+   File "weekly/validate_json.py", line 74, in validate_json
+    __process_subject(subject)
+   File "weekly/validate_json.py", line 68, in __process_subject
+    __process_verb(verb)
+   File "weekly/validate_json.py", line 58, in __process_verb
+    __process_obj(obj)
+   File "weekly/validate_json.py", line 37, in __process_obj
+    raise RuntimeError("invalid: %s" % obj[key])
+ RuntimeError: invalid: activity:progettazione
+
+In realta` progettazione e' una attivita` valida
+e quindi suppongo di doverla aggiungere.
+

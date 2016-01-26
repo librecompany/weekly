@@ -1,0 +1,38 @@
+#
+# tenere in ordine alfabetico, per facilitare manutenzione
+# utilizzare solo spazi (e niente tab)
+#
+
+- all:
+    - assenza
+    - bigdata:
+        - "masterbigdata corsoopendata"
+    - crowdfunding
+    - curiosita
+    - "ip intellectualproperty proprietaintellettuale":
+        - copyrightenforcement
+        - copyright
+    - linkeddata:
+    - misc
+    - synapta:
+        - projectmanagement
+        - "weeklysoftware weekly"
+        - sito
+    - "openaccess oa":
+        - porto
+    - "opencontent":
+        - "creativecommons cc ccit"
+        - culturalheritage
+    - "opendata psi":
+        - openteam
+        - "od-quality odquality opendataquality"
+    - opensource:
+        - masteropensource
+    - privacy:
+    - "publicdomain pd pubblicodominio"
+    - publicsectorinnovation
+    - "smartcommunities smartcity"
+    - teaching:
+        - wipollm
+        - lastjd
+

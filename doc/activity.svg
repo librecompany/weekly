@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="62.369cm" height="39.908cm" viewBox="-1.604 -13.607 60.765 26.300"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="23.618" cy="6.975" rx="8.893" ry="8.893" fill="none" stroke="#FFA500"  stroke-width="0.200" stroke-dasharray="0.10,0.10"/><ellipse cx="23.618" cy="6.975" rx="17.946" ry="17.946" fill="none" stroke="#008000"  stroke-width="0.200" stroke-dasharray="0.10,0.10"/><rect x="13.727" y="6.515" width="3.788" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.727" y="6.515" width="3.788" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="15.621" y="7.610"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%ricerca</text>
+<line x1="14.227" y1="7.763" x2="17.015" y2="7.763" stroke="#000000" stroke-width="0.100" />
+<rect x="15.242" y="13.131" width="4.363" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="15.242" y="13.131" width="4.363" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="17.423" y="14.226"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%gestione</text>
+<line x1="15.742" y1="14.378" x2="19.105" y2="14.378" stroke="#000000" stroke-width="0.100" />
+<rect x="8.972" y="21.161" width="4.553" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="8.972" y="21.161" width="4.553" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="11.248" y="22.256"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%reporting</text>
+<line x1="9.472" y1="22.409" x2="13.024" y2="22.409" stroke="#000000" stroke-width="0.100" />
+<line x1="16.674" y1="15.006" x2="12.270" y2="20.732" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="12.241,20.360 12.134,20.909 12.637,20.665 "/>
+<rect x="25.733" y="14.004" width="6.947" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="25.733" y="14.004" width="6.947" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="29.206" y="15.099"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%amministrazione</text>
+<line x1="26.233" y1="15.252" x2="32.180" y2="15.252" stroke="#000000" stroke-width="0.100" />
+<rect x="24.610" y="24.425" width="6.738" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="24.610" y="24.425" width="6.738" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="27.979" y="25.520"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%rendicontazione</text>
+<line x1="25.110" y1="25.673" x2="30.848" y2="25.673" stroke="#000000" stroke-width="0.100" />
+<rect x="32.532" y="20.839" width="4.972" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="32.532" y="20.839" width="4.972" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="35.018" y="21.934"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%burocrazia</text>
+<line x1="33.032" y1="22.086" x2="37.004" y2="22.086" stroke="#000000" stroke-width="0.100" />
+<line x1="29.081" y1="15.879" x2="28.036" y2="23.982" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="27.823,23.675 28.007,24.203 28.319,23.739 "/>
+<line x1="30.035" y1="15.879" x2="33.900" y2="20.423" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="33.530,20.375 34.044,20.594 33.911,20.051 "/>
+<rect x="29.257" y="9.727" width="4.447" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="29.257" y="9.727" width="4.447" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="31.481" y="10.822"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%outreach</text>
+<line x1="29.757" y1="10.974" x2="33.205" y2="10.974" stroke="#000000" stroke-width="0.100" />
+<rect x="36.218" y="15.004" width="5.953" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="36.218" y="15.004" width="5.953" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="39.194" y="16.099"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%ufficiostampa</text>
+<line x1="36.718" y1="16.252" x2="41.671" y2="16.252" stroke="#000000" stroke-width="0.100" />
+<line x1="32.906" y1="11.602" x2="37.401" y2="14.677" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="37.031,14.727 37.585,14.803 37.314,14.315 "/>
+<rect x="30.609" y="6.981" width="3.495" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="30.609" y="6.981" width="3.495" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="32.356" y="8.076"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%policy</text>
+<line x1="31.109" y1="8.229" x2="33.604" y2="8.229" stroke="#000000" stroke-width="0.100" />
+<rect x="29.095" y="1.505" width="4.415" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="29.095" y="1.505" width="4.415" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="31.302" y="2.600"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%didattica</text>
+<line x1="29.595" y1="2.752" x2="33.010" y2="2.752" stroke="#000000" stroke-width="0.100" />
+<rect x="25.719" y="-1.342" width="5.197" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="25.719" y="-1.342" width="5.197" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="28.317" y="-0.247"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%formazione</text>
+<line x1="26.219" y1="-0.095" x2="30.416" y2="-0.095" stroke="#000000" stroke-width="0.100" />
+<rect x="21.593" y="-2.800" width="3.093" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.593" y="-2.800" width="3.093" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="23.139" y="-1.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%misc</text>
+<line x1="22.093" y1="-1.553" x2="24.185" y2="-1.553" stroke="#000000" stroke-width="0.100" />
+<rect x="17.538" y="-11.596" width="6.280" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="17.538" y="-11.596" width="6.280" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="20.678" y="-10.501"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%servizigenerali</text>
+<line x1="18.038" y1="-10.348" x2="23.318" y2="-10.348" stroke="#000000" stroke-width="0.100" />
+<line x1="22.866" y1="-2.876" x2="21.072" y2="-9.290" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="21.387,-9.091 21.011,-9.505 20.905,-8.956 "/>
+<rect x="12.070" y="-9.615" width="4.497" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="12.070" y="-9.615" width="4.497" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="14.319" y="-8.520"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%helpdesk</text>
+<line x1="12.570" y1="-8.368" x2="16.067" y2="-8.368" stroke="#000000" stroke-width="0.100" />
+<line x1="21.877" y1="-2.876" x2="15.935" y2="-7.467" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="16.307,-7.495 15.758,-7.603 16.001,-7.100 "/>
+<rect x="52.800" y="-9.220" width="7.965" height="11.148" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="52.800" y="-7.825"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+MACRO attività ricorrenti</text>
+<text x="52.800" y="-6.225"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!ferie</text>
+<text x="52.800" y="-5.425"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!recupero</text>
+<text x="52.800" y="-4.625"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!lunchseminar</text>
+<text x="52.800" y="-3.825"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!malattia</text>
+<text x="52.800" y="-3.025"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!mail</text>
+<text x="52.800" y="-2.225"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!mailgestione</text>
+<text x="52.800" y="-1.425"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!mercoledi</text>
+<text x="52.800" y="-0.625"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!misc</text>
+<text x="52.800" y="0.175"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!staffmeeting</text>
+<text x="52.800" y="0.975"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!steering</text>
+<text x="52.800" y="1.775"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+!weeklymeeting</text>
+<text x="37.818" y="21.789"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+#missione</text>
+<text x="34.066" y="2.437"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+nel senso di</text>
+<text x="34.066" y="3.143"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+didattica attiva</text>
+<text x="0.458" y="13.824"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+#presentazione</text>
+<line x1="13.727" y1="7.415" x2="7.957" y2="5.109" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="8.307,4.979 7.750,5.026 8.121,5.443 "/>
+<rect x="2.534" y="3.070" width="5.152" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="2.534" y="3.070" width="5.152" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="5.110" y="4.165"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%conferenza</text>
+<line x1="3.034" y1="4.318" x2="7.186" y2="4.318" stroke="#000000" stroke-width="0.100" />
+<rect x="3.298" y="8.821" width="4.117" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="3.298" y="8.821" width="4.117" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="5.356" y="9.916"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%hacking</text>
+<line x1="3.798" y1="10.068" x2="6.915" y2="10.068" stroke="#000000" stroke-width="0.100" />
+<line x1="13.727" y1="7.415" x2="7.835" y2="9.567" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="8.009,9.238 7.625,9.644 8.181,9.707 "/>
+<rect x="3.928" y="5.892" width="3.572" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="3.928" y="5.892" width="3.572" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="5.714" y="6.987"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%studio</text>
+<line x1="4.428" y1="7.139" x2="7.000" y2="7.139" stroke="#000000" stroke-width="0.100" />
+<line x1="13.727" y1="7.415" x2="8.021" y2="6.971" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="8.316,6.743 7.798,6.954 8.277,7.242 "/>
+<text x="-1.604" y="6.782"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+#didatticapassiva</text>
+<rect x="39.671" y="9.160" width="3.818" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="39.671" y="9.160" width="3.818" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="41.579" y="10.255"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%grafica</text>
+<line x1="40.171" y1="10.408" x2="42.988" y2="10.408" stroke="#000000" stroke-width="0.100" />
+<line x1="33.779" y1="10.498" x2="39.150" y2="10.196" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="38.888,10.462 39.373,10.184 38.860,9.962 "/>
+<rect x="4.090" y="11.348" width="3.473" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.090" y="11.348" width="3.473" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="5.826" y="12.443"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%paper</text>
+<line x1="4.590" y1="12.596" x2="7.062" y2="12.596" stroke="#000000" stroke-width="0.100" />
+<line x1="13.727" y1="7.415" x2="7.802" y2="11.039" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="7.907,10.682 7.611,11.156 8.168,11.108 "/>
+<rect x="4.764" y="17.277" width="8.117" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.764" y="17.277" width="8.117" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="8.823" y="18.372"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%projectmanagement</text>
+<line x1="5.264" y1="18.525" x2="12.382" y2="18.525" stroke="#000000" stroke-width="0.100" />
+<line x1="15.403" y1="15.005" x2="11.246" y2="17.009" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="11.386,16.664 11.044,17.106 11.603,17.114 "/>
+<text x="2.164" y="19.902"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+!staffmeeting</text>
+<text x="2.164" y="20.608"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+!weeklymeeting</text>
+<text x="2.164" y="21.313"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+!steering</text>
+<rect x="25.540" y="-11.145" width="3.942" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="25.540" y="-11.145" width="3.942" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="27.511" y="-10.050"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%viaggio</text>
+<line x1="26.040" y1="-9.897" x2="28.982" y2="-9.897" stroke="#000000" stroke-width="0.100" />
+<line x1="23.650" y1="-2.875" x2="26.793" y2="-8.874" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="26.886,-8.513 26.897,-9.072 26.443,-8.745 "/>
+<text x="26.065" y="-12.377"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+nel senso di ore spese</text>
+<text x="26.065" y="-11.671"  fill="#000000" text-anchor="start" font-size="0.71" font-family="sans" font-style="normal" font-weight="400">
+viaggiando</text>
+<rect x="4.340" y="14.242" width="6.093" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.340" y="14.242" width="6.093" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="7.386" y="15.338"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%brainstorming</text>
+<line x1="4.840" y1="15.490" x2="9.933" y2="15.490" stroke="#000000" stroke-width="0.100" />
+<line x1="14.583" y1="8.390" x2="8.751" y2="13.862" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="8.781,13.491 8.588,14.015 9.123,13.855 "/>
+<rect x="8.690" y="-6.715" width="4.862" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="8.690" y="-6.715" width="4.862" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="11.121" y="-5.620"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%segreteria</text>
+<line x1="9.190" y1="-5.468" x2="13.052" y2="-5.468" stroke="#000000" stroke-width="0.100" />
+<line x1="21.518" y1="-2.562" x2="13.967" y2="-5.646" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="14.317,-5.773 13.760,-5.730 14.128,-5.310 "/>
+<rect x="30.440" y="4.242" width="4.658" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="30.440" y="4.242" width="4.658" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="32.769" y="5.337"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%sysadmin</text>
+<line x1="30.940" y1="5.490" x2="34.598" y2="5.490" stroke="#000000" stroke-width="0.100" />
+<rect x="19.040" y="15.643" width="6.055" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.040" y="15.643" width="6.055" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="22.067" y="16.738"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%progettazione</text>
+<line x1="19.540" y1="16.890" x2="24.595" y2="16.890" stroke="#000000" stroke-width="0.100" />
+<rect x="13.740" y="23.180" width="5.258" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.740" y="23.180" width="5.258" height="1.800" fill="none" stroke="#008000" stroke-width="0.200" />
+<text x="16.369" y="24.275"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%headunting</text>
+<line x1="14.240" y1="24.427" x2="18.498" y2="24.427" stroke="#000000" stroke-width="0.100" />
+<line x1="17.321" y1="15.006" x2="16.518" y2="22.661" stroke="#FFA500" stroke-width="0.200" />
+<polyline fill="none" stroke="#FFA500" stroke-width="0.200"  points="16.298,22.360 16.494,22.883 16.795,22.412 "/>
+<rect x="13.740" y="2.593" width="3.732" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.740" y="2.593" width="3.732" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="15.606" y="3.688"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%design</text>
+<line x1="14.240" y1="3.840" x2="16.973" y2="3.840" stroke="#000000" stroke-width="0.100" />
+<rect x="16.090" y="-0.507" width="4.287" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="16.090" y="-0.507" width="4.287" height="1.800" fill="none" stroke="#FFA500" stroke-width="0.200" />
+<text x="18.234" y="0.588"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+%sviluppo</text>
+<line x1="16.590" y1="0.740" x2="19.878" y2="0.740" stroke="#000000" stroke-width="0.100" />
+</svg>
